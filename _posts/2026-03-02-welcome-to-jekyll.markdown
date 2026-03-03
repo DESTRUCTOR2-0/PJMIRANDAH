@@ -1,29 +1,42 @@
 ---
 layout: post
-title:  "hola!"
-date:   2026-03-01 21:35:17 -0500
-categories: jekyll update
+title:  "Mi Primera Publicación"
+date:   2026-03-02 20:00:00 -0500
+categories: blog tecnologia
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+## Bienvenido a mi página web personal
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Soy **Pedro Miranda**, estudiante de Tecnología y Desarrollo de Software,  
+con especial interés en:
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+- Redes
+- Ciberseguridad
+- Desarrollo de software
+- Administración de sistemas
 
-Jekyll also offers powerful support for code snippets:
+Este sitio fue creado utilizando **Jekyll** y publicado mediante **GitHub Pages**.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Aquí compartiré:
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+- Proyectos académicos
+- Prácticas de laboratorio
+- Aprendizajes en redes y seguridad informática
+- Avances en desarrollo web
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+---
+
+## Objetivo profesional
+
+Mi objetivo es desarrollarme en el área de **infraestructura y ciberseguridad**, 
+fortaleciendo mis conocimientos en:
+
+- Administración de servidores
+- Seguridad en redes
+- Gestión de bases de datos
+- Buenas prácticas de programación
+
+---
+
+Gracias por visitar mi página.
+Próximamente estaré publicando nuevos proyectos 🚀
