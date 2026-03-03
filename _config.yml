@@ -17,35 +17,25 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
 title: Pedro Miranda
-email: pedro.miranda@email.com
+email: pedro@email.com
 description: >-
-  Página web personal creada con Jekyll para el curso.
-  Estudiante de Tecnología y Desarrollo de Software,
-  con interés en redes y ciberseguridad.
-
-baseurl: "" 
-url: "" 
+  Sitio web personal desarrollado con Jekyll y GitHub Pages.
+  Aquí comparto mis proyectos y avances en tecnología.
+baseurl: "/PJMIRANDAH"
+url: "https://destructor2-0.github.io"
 
 twitter_username: 
-github_username: DESTRUCTOR2-0
+github_username: destructor2-0
 
-# -------------------------------
-# Configuración de construcción
-# -------------------------------
-
+# Build settings
 theme: minima
-
 plugins:
   - jekyll-feed
 
-# -------------------------------
-# Archivos excluidos
-# -------------------------------
-
+# Exclude from processing
 exclude:
   - Gemfile
   - Gemfile.lock
-  - node_modules/
-  - vendor/
+  - node_modules
+  - vendor
