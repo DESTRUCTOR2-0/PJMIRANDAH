@@ -22,6 +22,10 @@ email: pedro@email.com
 description: >-
   Sitio web personal desarrollado con Jekyll y GitHub Pages.
   Aquí comparto mis proyectos y avances en tecnología.
+  Página web personal creada con Jekyll para el curso.
+  Estudiante de Tecnología y Desarrollo de Software,
+  con interés en redes y ciberseguridad.
+
 baseurl: "/PJMIRANDAH"
 url: "https://destructor2-0.github.io"
 
@@ -39,3 +43,5 @@ exclude:
   - Gemfile.lock
   - node_modules
   - vendor
+  - node_modules/
+  - vendor/
